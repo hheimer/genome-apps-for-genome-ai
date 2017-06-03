@@ -1,0 +1,12 @@
+[submodule "genome_apps/obesity"]
+	path = genome_apps/obesity
+	url = https://github.com/Guardiome/obesity.git
+[submodule "genome_apps/sleep-duration"]
+	path = genome_apps/sleep-duration
+	url = https://github.com/Guardiome/sleep-duration.git
+[submodule "genome_apps/sleep-cycle"]
+	path = genome_apps/sleep-cycle
+	url = https://github.com/Guardiome/sleep-cycle.git
+[submodule "genome_apps/altitude-tolerance"]
+	path = genome_apps/altitude-tolerance
+	url = https://github.com/Guardiome/altitude-tolerance.git
