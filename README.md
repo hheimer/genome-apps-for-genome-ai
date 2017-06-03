@@ -1,4 +1,4 @@
-### This repository stores code to manage Genome Apps<p>
+### This repository stores Genome Apps and code to help manage Genome Apps<p>
 
 #### How Genome Apps are run in Guardiome software
 1. Genome App is clicked on the UI
