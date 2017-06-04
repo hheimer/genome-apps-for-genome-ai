@@ -1,3 +1,3 @@
 # Genome Apps
 
-Genius Genome Apps
+Genome Apps
