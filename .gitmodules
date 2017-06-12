@@ -1,0 +1,3 @@
+[submodule "muscle-type"]
+	path = muscle-type
+	url = https://github.com/Guardiome/muscle-type
