@@ -1,3 +1,12 @@
 [submodule "muscle-type"]
 	path = muscle-type
 	url = https://github.com/Guardiome/muscle-type
+[submodule "sleep-duration"]
+	path = sleep-duration
+	url = https://github.com/Guardiome/sleep-duration.git
+[submodule "lactose-intolerance"]
+	path = lactose-intolerance
+	url = https://github.com/Guardiome/lactose-intolerance.git
+[submodule "tumor-suppressors"]
+	path = tumor-suppressors
+	url = https://github.com/Guardiome/tumor-suppressors.git
