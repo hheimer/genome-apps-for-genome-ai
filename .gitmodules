@@ -13,3 +13,6 @@
 [submodule "hair-color"]
 	path = hair-color
 	url = https://github.com/Guardiome/hair-color.git
+[submodule "eye-color"]
+	path = eye-color
+	url = https://github.com/Guardiome/eye-color.git
