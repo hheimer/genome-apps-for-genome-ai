@@ -1,3 +1,3 @@
 # Genome Apps
 
-Genome Apps
+Genome Apps for Genome AI
