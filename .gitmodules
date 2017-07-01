@@ -10,3 +10,6 @@
 [submodule "tumor-suppressors"]
 	path = tumor-suppressors
 	url = https://github.com/Guardiome/tumor-suppressors.git
+[submodule "hair-color"]
+	path = hair-color
+	url = https://github.com/Guardiome/hair-color.git
