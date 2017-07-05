@@ -1,18 +1,15 @@
-[submodule "muscle-type"]
-	path = muscle-type
-	url = https://github.com/Guardiome/muscle-type
-[submodule "sleep-duration"]
-	path = sleep-duration
-	url = https://github.com/Guardiome/sleep-duration.git
-[submodule "lactose-intolerance"]
-	path = lactose-intolerance
-	url = https://github.com/Guardiome/lactose-intolerance.git
-[submodule "tumor-suppressors"]
-	path = tumor-suppressors
-	url = https://github.com/Guardiome/tumor-suppressors.git
-[submodule "hair-color"]
-	path = hair-color
-	url = https://github.com/Guardiome/hair-color.git
 [submodule "eye-color"]
 	path = eye-color
-	url = https://github.com/Guardiome/eye-color.git
+	url = https://github.com/KwatME/eye-color.git
+[submodule "sleep-duration"]
+	path = sleep-duration
+	url = https://github.com/Kazyra/sleep-duration.git
+[submodule "tumor-suppressors"]
+	path = tumor-suppressors
+	url = https://github.com/KwatME/tumor-suppressors.git
+[submodule "hair-color"]
+	path = hair-color
+	url = https://github.com/KwatME/hair-color.git
+[submodule "muscle-type"]
+	path = muscle-type
+	url = https://github.com/Kazyra/muscle-type.git
