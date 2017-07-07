@@ -1,6 +1,6 @@
 [submodule "eye-color"]
 	path = eye-color
-	url = https://github.com/KwatME/eye-color.git
+	url = https://github.com/bbhsu/eye-color.git
 [submodule "sleep-duration"]
 	path = sleep-duration
 	url = https://github.com/Kazyra/sleep-duration.git
@@ -9,7 +9,7 @@
 	url = https://github.com/KwatME/tumor-suppressors.git
 [submodule "hair-color"]
 	path = hair-color
-	url = https://github.com/KwatME/hair-color.git
+	url = https://github.com/bbhsu/hair-color.git
 [submodule "muscle-type"]
 	path = muscle-type
 	url = https://github.com/Kazyra/muscle-type.git
