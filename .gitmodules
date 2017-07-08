@@ -25,3 +25,9 @@
 [submodule "late-onset-alzheimers-disease"]
 	path = late-onset-alzheimers-disease
 	url = https://github.com/bbhsu/late-onset-alzheimers-disease.git
+[submodule "sleep-cycle"]
+	path = sleep-cycle
+	url = https://github.com/bbhsu/sleep-cycle.git
+[submodule "lactose-tolerance"]
+	path = lactose-tolerance
+	url = https://github.com/bbhsu/lactose-tolerance.git
