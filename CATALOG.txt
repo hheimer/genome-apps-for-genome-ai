@@ -1,6 +1,0 @@
-Repository Name	Genome App Name
-muscle-type	Muscle Type
-eye-color	Eye Color
-hair-color	Hair Color
-sleep-duration	Sleep Duration
-tumor-supressors	Tumor Supressors
