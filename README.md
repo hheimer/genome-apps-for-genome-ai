@@ -9,4 +9,4 @@ If you have a genome app that you want to contribute (all Genome AI users will b
 2. Drag-and-drop your genome app here (TODO: Add screenshot)
 3. Create a pull request (TODO: Add screenshot)
 
-:tada: Congratulations - you've made accessing DNA more exciting for people :family::notes:
+:tada: Congratulations - you've made accessing DNA more exciting for people :notes::family::notes:
