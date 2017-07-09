@@ -1,0 +1,13 @@
+INFO [2017-06-30 16:11:44,260] [Main.java:150]  Startup  IGV Version 2.3.94 (152)06/11/2017 07:09 PM
+INFO [2017-06-30 16:11:44,261] [Main.java:151]  Java 1.8.0_121
+INFO [2017-06-30 16:11:44,261] [DirectoryManager.java:72]  Fetching user directory... 
+INFO [2017-06-30 16:11:44,386] [Main.java:152]  Default User Directory: /Users/kateme
+INFO [2017-06-30 16:11:44,387] [Main.java:153]  OS: Mac OS X
+INFO [2017-06-30 16:11:46,845] [GenomeManager.java:1020]  java.io.FileNotFoundException: /Users/kateme/igv/genomes/user-defined-genomes.txt (No such file or directory)
+INFO [2017-06-30 16:11:47,291] [GenomeManager.java:145]  Loading genome: http://s3.amazonaws.com/igv.broadinstitute.org/genomes/hg19.genome
+INFO [2017-06-30 16:11:47,297] [URLDownloader.java:89]  Downloading http://s3.amazonaws.com/igv.broadinstitute.org/genomes/hg19.genome to /Users/kateme/igv/genomes/hg19.genome
+INFO [2017-06-30 16:11:48,872] [URLDownloader.java:134]  Download complete.  Total bytes downloaded = 6418326
+INFO [2017-06-30 16:11:51,487] [GenomeManager.java:192]  Genome loaded.  id= hg19
+INFO [2017-06-30 16:11:51,541] [CommandListener.java:106]  Listening on port 60151
+INFO [2017-06-30 19:53:30,289] [ShutdownThread.java:51]  Shutting down
+INFO [2017-06-30 19:53:30,294] [ShutdownThread.java:51]  Shutting down
