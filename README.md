@@ -1,6 +1,6 @@
 # Genome Apps for [Genome AI](https://www.guardiome.com/ai-index/)
 
-This repository contains [genome apps](https://www.guardiome.com/apps-index/) for [Genome AI](https://www.guardiome.com/ai-index/). All genome apps here are available for Genome AI users.
+This repository contains [genome apps](https://www.guardiome.com/apps-index/) for [Genome AI](https://www.guardiome.com/ai-index/). All genome apps here are available for Genome AI users:microscope:.
 
 ## Adding your genome app here
 
@@ -9,4 +9,4 @@ If you have a genome app that you want to contribute (all Genome AI users will b
 2. Drag-and-drop your genome app here (TODO: Add screenshot)
 3. Create a pull request (TODO: Add screenshot)
 
-:confetti_ball:Congradulations:tada: - You've made accessing DNA more fun for people:family::sparkle:
+:confetti_ball:Congradulations:tada: - You've made accessing DNA more fun for people:family::notes:
