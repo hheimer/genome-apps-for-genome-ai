@@ -1,4 +1,4 @@
-# [Genome Apps](https://www.guardiome.com/apps-index/) :microscope: for [Genome AI](https://www.guardiome.com/ai-index/) :hatching_chick:
+# [Genome Apps](https://www.guardiome.com/apps-index/) :microscope: for [Genome AI](https://www.guardiome.com/ai-index/) :no_mouth:
 
 This repository contains genome apps for Genome AI. All genome apps here are available for Genome AI users :family:.
 
