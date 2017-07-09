@@ -1,6 +1,6 @@
 # Genome Apps for [Genome AI](https://www.guardiome.com/ai-index/)
 
-This repository contains genome apps for Genome AI. All genome apps here will be available for Genome AI users.
+This repository contains genome apps for Genome AI. All genome apps here are available for Genome AI users.
 
 ## Adding your genome app here
 If you have a genome app that you want to contribute (all Genome AI users will be able to run your genome app!), simply add your genome app here following the instructions:
