@@ -5,7 +5,7 @@ This repository contains [genome apps](https://www.guardiome.com/apps-index/) fo
 ## Adding your genome app here
 
 If you have a genome app that you want to contribute (all Genome AI users will be able to run your genome app!), add your genome app here following these steps: (TODO: Add video showing the entire process)
-1. Make sure there is not already a genome app with the same name like yours (if so, simply rename your genome app)
+1. Make sure your genome app name is unique (there should not already be a genome app with the same name. If so, rename yours (first-come-first-serve ;)
 2. Drag-and-drop your genome app here (TODO: Add screenshot)
 3. Create a pull request (TODO: Add screenshot)
 
