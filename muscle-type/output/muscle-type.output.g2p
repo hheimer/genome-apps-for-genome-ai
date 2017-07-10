@@ -1,0 +1,4 @@
+# Cause.description=This is the cause description.							
+# Facts.description=This is the facts description.							
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Cause	Facts
+				A person with these genomic features may have muscles that perform better than the average person and you likely have an improved sprinting ability.	Roth SM, Walsh S, Liu D, Metter EJ, Ferrucci L, Hurley BF. The ACTN3 R577X nonsense allele is under-represented in elite-level strength athletes. Eur J Hum Genet. 2008;16(3):391-4.|https://www.snpedia.com/index.php/Rs1815739	No harmful variants were found in your ACTN3 gene, responsible for producing alpha-actinin-3 protein. Your fast-twitch muscle fibers likely have an abundance of alpha-actinin 3 protein.	A study has shown in elite athletes that the ACTN3 gene may influence athletic performance.

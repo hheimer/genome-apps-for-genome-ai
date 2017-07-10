@@ -1,0 +1,841 @@
+{
+ "variants": {
+  "rs12706831": {
+   "CHROM": "7",
+   "POS": 128247015,
+   "REF": "T",
+   "FILTER": "PASS",
+   "ALT": "G",
+   "QUAL": 436.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "15",
+      "21"
+     ],
+     "DP": "36",
+     "GQ": "99",
+     "PL": "465,0,392",
+     "genotype": [
+      "T",
+      "G"
+     ],
+     "allelic_frequency": [
+      0.417,
+      0.583
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-3.145",
+   "ClippingRankSum": "1.348",
+   "DP": "36",
+   "FS": "1.332",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "60",
+   "MQRankSum": "0.193",
+   "QD": "12.13",
+   "ReadPosRankSum": "-1.669",
+   "SOR": "1.069",
+   "VQSLOD": 3.44,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_id": "ENSG00000174697",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000308868.4",
+     "transcript_biotype": "protein_coding",
+     "rank": "1/2",
+     "hgvsc": "c.-28-4976T>G",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs181942745": {
+   "CHROM": "1",
+   "POS": 65424160,
+   "REF": "C",
+   "FILTER": "PASS",
+   "ALT": "T",
+   "QUAL": 574.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "20",
+      "23"
+     ],
+     "DP": "43",
+     "GQ": "99",
+     "PL": "603,0,520",
+     "genotype": [
+      "C",
+      "T"
+     ],
+     "allelic_frequency": [
+      0.465,
+      0.535
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-0.67",
+   "ClippingRankSum": "1.327",
+   "DP": "43",
+   "FS": "2.648",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "60",
+   "MQRankSum": "0.864",
+   "QD": "13.37",
+   "ReadPosRankSum": "0.012",
+   "SOR": "0.503",
+   "VQSLOD": 2.16,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "1/19",
+     "hgvsc": "c.-96-1143C>T",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs36072366": {
+   "CHROM": "1",
+   "POS": 65424553,
+   "REF": "C",
+   "FILTER": "PASS",
+   "ALT": "T",
+   "QUAL": 1586.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "1",
+      "1"
+     ],
+     "AD": [
+      "0",
+      "36"
+     ],
+     "DP": "36",
+     "GQ": "99",
+     "PL": "1615,108,0",
+     "genotype": [
+      "T",
+      "T"
+     ],
+     "allelic_frequency": [
+      0.0,
+      1.0
+     ]
+    }
+   ],
+   "AC": "2",
+   "AF": "1",
+   "AN": "2",
+   "DP": "36",
+   "FS": "0",
+   "MLEAC": "2",
+   "MLEAF": "1",
+   "MQ": "60",
+   "QD": "32.53",
+   "SOR": "0.693",
+   "VQSLOD": 5.94,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "1/19",
+     "hgvsc": "c.-96-750C>T",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs9436299": {
+   "CHROM": "1",
+   "POS": 65427205,
+   "REF": "C",
+   "FILTER": "PASS",
+   "ALT": "A",
+   "QUAL": 611.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "17",
+      "23"
+     ],
+     "DP": "40",
+     "GQ": "99",
+     "PL": "640,0,384",
+     "genotype": [
+      "C",
+      "A"
+     ],
+     "allelic_frequency": [
+      0.425,
+      0.575
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "2.681",
+   "ClippingRankSum": "0.164",
+   "DP": "42",
+   "FS": "1.222",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "60",
+   "MQRankSum": "-1.259",
+   "QD": "14.57",
+   "ReadPosRankSum": "-1.204",
+   "SOR": "0.483",
+   "VQSLOD": 3.52,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-21+1827C>A",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs142401607": {
+   "CHROM": "1",
+   "POS": 65455352,
+   "REF": "A",
+   "FILTER": "VQSRTrancheSNP99.00to99.90",
+   "ALT": "C",
+   "QUAL": 784.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "20",
+      "21"
+     ],
+     "DP": "41",
+     "GQ": "99",
+     "PL": "813,0,1229",
+     "genotype": [
+      "A",
+      "C"
+     ],
+     "allelic_frequency": [
+      0.488,
+      0.512
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-0.561",
+   "ClippingRankSum": "0.561",
+   "DP": "41",
+   "FS": "4.862",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "59.38",
+   "MQRankSum": "-0.117",
+   "QD": "19.14",
+   "ReadPosRankSum": "0.065",
+   "SOR": "0.213",
+   "VQSLOD": 0.487,
+   "culprit": "QD",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-21+29974A>C",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs17412368": {
+   "CHROM": "1",
+   "POS": 65473475,
+   "REF": "A",
+   "FILTER": "PASS",
+   "ALT": "G",
+   "QUAL": 300.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "18",
+      "13"
+     ],
+     "DP": "31",
+     "GQ": "99",
+     "PL": "329,0,536",
+     "genotype": [
+      "A",
+      "G"
+     ],
+     "allelic_frequency": [
+      0.581,
+      0.419
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-3.543",
+   "ClippingRankSum": "2.862",
+   "DP": "31",
+   "FS": "1.615",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "60",
+   "MQRankSum": "-0.46",
+   "QD": "9.7",
+   "ReadPosRankSum": "-1.141",
+   "SOR": "0.368",
+   "VQSLOD": 1.45,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-21+48097A>G",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "No ID (1)": {
+   "CHROM": "1",
+   "POS": 65481356,
+   "REF": "A",
+   "FILTER": "VQSRTrancheSNP99.90to100.00",
+   "ALT": "G",
+   "QUAL": 189.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "52",
+      "6"
+     ],
+     "DP": "58",
+     "GQ": "99",
+     "PL": "218,0,2961",
+     "genotype": [
+      "A",
+      "G"
+     ],
+     "allelic_frequency": [
+      0.897,
+      0.103
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-2.311",
+   "ClippingRankSum": "-0.549",
+   "DP": "59",
+   "FS": "16.294",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "57.99",
+   "MQRankSum": "-3.996",
+   "QD": "3.22",
+   "ReadPosRankSum": "-3.868",
+   "SOR": "3.905",
+   "VQSLOD": -9.719,
+   "culprit": "QD",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-21+55978A>G",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs149927064": {
+   "CHROM": "1",
+   "POS": 65487700,
+   "REF": "TA",
+   "FILTER": "VQSRTrancheINDEL99.00to99.90",
+   "ALT": "T",
+   "QUAL": 312.73,
+   "variant_type": "DEL",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "31",
+      "19"
+     ],
+     "DP": "50",
+     "GQ": "99",
+     "PL": "350,0,731",
+     "genotype": [
+      "TA",
+      "T"
+     ],
+     "allelic_frequency": [
+      0.62,
+      0.38
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "0.54",
+   "ClippingRankSum": "0.4",
+   "DP": "50",
+   "FS": "5.936",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "60.22",
+   "MQRankSum": "-0.899",
+   "QD": "6.25",
+   "ReadPosRankSum": "2.958",
+   "SOR": "1.204",
+   "VQSLOD": -0.7528,
+   "culprit": "ReadPosRankSum",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-21+62328delA",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "No ID (2)": {
+   "CHROM": "1",
+   "POS": 65559403,
+   "REF": "T",
+   "FILTER": "VQSRTrancheSNP99.00to99.90",
+   "ALT": "C",
+   "QUAL": 35.77,
+   "variant_type": "SNP",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "11",
+      "4"
+     ],
+     "DP": "15",
+     "GQ": "64",
+     "PL": "64,0,280",
+     "genotype": [
+      "T",
+      "C"
+     ],
+     "allelic_frequency": [
+      0.733,
+      0.267
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "-0.065",
+   "ClippingRankSum": "-0.718",
+   "DP": "15",
+   "FS": "0",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "27.97",
+   "MQRankSum": "-1.371",
+   "QD": "2.38",
+   "ReadPosRankSum": "-0.196",
+   "SOR": "0.551",
+   "VQSLOD": -0.3943,
+   "culprit": "QD",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000349533.10",
+     "transcript_biotype": "protein_coding",
+     "rank": "2/19",
+     "hgvsc": "c.-20-6143T>C",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs71708610": {
+   "CHROM": "1",
+   "POS": 65598095,
+   "REF": "C",
+   "FILTER": "PASS",
+   "ALT": "CTTT",
+   "QUAL": 797.73,
+   "variant_type": "INS",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "1",
+      "1"
+     ],
+     "AD": [
+      "1",
+      "23"
+     ],
+     "DP": "24",
+     "GQ": "63",
+     "PL": "835,63,0",
+     "genotype": [
+      "CTTT",
+      "CTTT"
+     ],
+     "allelic_frequency": [
+      0.042,
+      0.958
+     ]
+    }
+   ],
+   "AC": "2",
+   "AF": "1",
+   "AN": "2",
+   "DP": "28",
+   "FS": "0",
+   "MLEAC": "2",
+   "MLEAF": "1",
+   "MQ": "60.39",
+   "QD": "28.49",
+   "SOR": "1.292",
+   "VQSLOD": 4.18,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "sequence_feature",
+     "putative_impact": "LOW",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "topological_domain:Extracellular",
+     "feature_id": "ENST00000349533",
+     "transcript_biotype": "protein_coding",
+     "rank": "13/20",
+     "hgvsc": "c.850-565_850-564insTTT",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs144928941": {
+   "CHROM": "1",
+   "POS": 65630422,
+   "REF": "AG",
+   "FILTER": "PASS",
+   "ALT": "A",
+   "QUAL": 433.74,
+   "variant_type": "DEL",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "0",
+      "1"
+     ],
+     "AD": [
+      "6",
+      "28"
+     ],
+     "DP": "34",
+     "GQ": "30",
+     "PL": "471,0,30",
+     "genotype": [
+      "AG",
+      "A"
+     ],
+     "allelic_frequency": [
+      0.176,
+      0.824
+     ]
+    }
+   ],
+   "AC": "1",
+   "AF": "0.5",
+   "AN": "2",
+   "BaseQRankSum": "0.113",
+   "ClippingRankSum": "0.52",
+   "DP": "38",
+   "FS": "1.803",
+   "MLEAC": "1",
+   "MLEAF": "0.5",
+   "MQ": "57.92",
+   "MQRankSum": "0.52",
+   "QD": "11.41",
+   "ReadPosRankSum": "0.565",
+   "SOR": "0.307",
+   "VQSLOD": 1.18,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "sequence_feature",
+     "putative_impact": "LOW",
+     "gene_name": "LEPR",
+     "gene_id": "ENSG00000116678",
+     "feature_type": "topological_domain:Cytoplasmic",
+     "feature_id": "ENST00000349533",
+     "transcript_biotype": "protein_coding",
+     "rank": "18/20",
+     "hgvsc": "c.2674-5768delG",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  },
+  "rs3039380": {
+   "CHROM": "2",
+   "POS": 25164989,
+   "REF": "G",
+   "FILTER": "PASS",
+   "ALT": "GACC",
+   "QUAL": 2204.73,
+   "variant_type": "INS",
+   "samples": [
+    {
+     "sample_id": 1,
+     "GT": [
+      "1",
+      "1"
+     ],
+     "AD": [
+      "0",
+      "49"
+     ],
+     "DP": "49",
+     "GQ": "99",
+     "PL": "2242,151,0",
+     "genotype": [
+      "GACC",
+      "GACC"
+     ],
+     "allelic_frequency": [
+      0.0,
+      1.0
+     ]
+    }
+   ],
+   "AC": "2",
+   "AF": "1",
+   "AN": "2",
+   "DP": "49",
+   "FS": "0",
+   "MLEAC": "2",
+   "MLEAF": "1",
+   "MQ": "60",
+   "QD": "28.14",
+   "SOR": "1.345",
+   "VQSLOD": 4.35,
+   "culprit": "FS",
+   "ANN": {
+    "0": {
+     "effect": "intron_variant",
+     "putative_impact": "MODIFIER",
+     "gene_id": "ENSG00000115138",
+     "feature_type": "transcript",
+     "feature_id": "ENST00000405623.5",
+     "transcript_biotype": "protein_coding",
+     "rank": "1/2",
+     "hgvsc": "c.-50-168_-50-167insGGT",
+     "hgvsp": "",
+     "cdna_position": "",
+     "cds_position": "",
+     "protein_position": "",
+     "distance_to_feature": ""
+    }
+   }
+  }
+ },
+ "genes": {
+  "LEP": {
+   "effect": "intron_variant",
+   "putative_impact": "MODIFIER",
+   "gene_id": "ENSG00000174697",
+   "feature_type": "transcript",
+   "feature_id": "ENST00000308868.4",
+   "transcript_biotype": "protein_coding",
+   "rank": "1/2",
+   "hgvsc": "c.-28-4976T>G",
+   "hgvsp": "",
+   "cdna_position": "",
+   "cds_position": "",
+   "protein_position": "",
+   "distance_to_feature": ""
+  },
+  "LEPR": {
+   "effect": "sequence_feature",
+   "putative_impact": "LOW",
+   "gene_id": "ENSG00000116678",
+   "feature_type": "topological_domain:Extracellular",
+   "feature_id": "ENST00000349533",
+   "transcript_biotype": "protein_coding",
+   "rank": "13/20",
+   "hgvsc": "c.850-565_850-564insTTT",
+   "hgvsp": "",
+   "cdna_position": "",
+   "cds_position": "",
+   "protein_position": "",
+   "distance_to_feature": ""
+  },
+  "POMC": {
+   "effect": "intron_variant",
+   "putative_impact": "MODIFIER",
+   "gene_id": "ENSG00000115138",
+   "feature_type": "transcript",
+   "feature_id": "ENST00000405623.5",
+   "transcript_biotype": "protein_coding",
+   "rank": "1/2",
+   "hgvsc": "c.-50-168_-50-167insGGT",
+   "hgvsp": "",
+   "cdna_position": "",
+   "cds_position": "",
+   "protein_position": "",
+   "distance_to_feature": ""
+  }
+ },
+ "result": "You're not at increased risk for obesity",
+ "date_run": "11:40:29.982219"
+}

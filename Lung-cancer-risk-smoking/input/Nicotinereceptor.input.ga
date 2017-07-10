@@ -1,0 +1,6 @@
+# RESULT.default=Your genetic information indicates that you are at normal risk for lung disease						
+# Action.default=Refrain from nicotine and tar consumption						
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Action
+rs1051730	variant	15:78601997-78601997	G|G	A person with this genotype is at normal risk for lung disease	https://www.ncbi.nlm.nih.gov/pubmed/18385676?dopt=Abstract	
+rs1051730	variant	15:78601997-78601997	G|A	A person with this genotype may be susceptible to a 1.3x increased risk factor for lung disease.	https://www.ncbi.nlm.nih.gov/pubmed/18385739?dopt=Abstract	Cessation of smoking through gradual lifestyle changes.
+rs1051730	variant	15:78601997-78601997	A|A	A person with this genotype may be susceptible to a 1.6x increased risk factor for lung disease		Cessation of smoking through gradual lifestyle changes.

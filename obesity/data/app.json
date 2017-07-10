@@ -1,0 +1,213 @@
+{
+ "regions": [
+  "2:634905-634905",
+  "11:27645655-27645655",
+  "12:49853685-49853685",
+  "16:53786615-53786615",
+  "4:45173674-45173674",
+  "16:28862077-28862077",
+  "11:47641497-47641497",
+  "18:60184530-60184530",
+  "18:60371110-60372775",
+  "7:128241284-128257628",
+  "1:65420652-65641559",
+  "2:25160853-25168903",
+  "1:26911489-26913966",
+  "19:39825350-39834201",
+  "11:74000281-74009435"
+ ],
+ "results": {
+  "result1": {
+   "analysis": {
+    "variants1": {
+     "features": {
+      "rs6548238": {
+       "genotypes": [
+        [
+         "C",
+         "T"
+        ],
+        [
+         "T",
+         "T"
+        ]
+       ],
+       "weights": [
+        -0.26,
+        -0.52
+       ]
+      },
+      "rs925946": {
+       "genotypes": [
+        [
+         "T",
+         "T"
+        ],
+        [
+         "G",
+         "G"
+        ]
+       ],
+       "weights": [
+        0.35,
+        -0.35
+       ]
+      },
+      "rs7138803": {
+       "genotypes": [
+        [
+         "A",
+         "A"
+        ],
+        [
+         "G",
+         "G"
+        ]
+       ],
+       "weights": [
+        0.41,
+        -0.41
+       ]
+      },
+      "rs9939609": {
+       "genotypes": [
+        [
+         "A",
+         "A"
+        ],
+        [
+         "T",
+         "T"
+        ]
+       ],
+       "weights": [
+        0.33,
+        -0.33
+       ]
+      },
+      "rs13130484": {
+       "genotypes": [
+        [
+         "T",
+         "T"
+        ],
+        [
+         "C",
+         "C"
+        ]
+       ],
+       "weights": [
+        0.19,
+        -0.19
+       ]
+      },
+      "rs4788102": {
+       "genotypes": [
+        [
+         "A",
+         "A"
+        ],
+        [
+         "G",
+         "G"
+        ]
+       ],
+       "weights": [
+        0.15,
+        -0.15
+       ]
+      },
+      "rs10838738": {
+       "genotypes": [
+        [
+         "G",
+         "G"
+        ],
+        [
+         "A",
+         "A"
+        ]
+       ],
+       "weights": [
+        0.07,
+        -0.07
+       ]
+      },
+      "rs10871777": {
+       "genotypes": [
+        [
+         "G",
+         "G"
+        ],
+        [
+         "A",
+         "G"
+        ]
+       ],
+       "weights": [
+        0.44,
+        0.22
+       ]
+      }
+     },
+     "logic": "add",
+     "sub_result": "You have a WWW BMI unit difference compared to the average person."
+    },
+    "genes1": {
+     "features": {
+      "MC4R": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "LEP": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "LEPR": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "POMC": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "NR0B2": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "DYRK1B": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      },
+      "UCP3": {
+       "logic": "or",
+       "fields": {
+        "putative_impact": "HIGH"
+       }
+      }
+     },
+     "logic": "or",
+     "sub_result": "You have one or more harmful mutations in one or more obesity-associated genes. Therefore, you are likely to produce less proteins involved in regulating appetite and metabolism resulting in increased appetite and decreased metabolism."
+    }
+   },
+   "result": "You have increased risk of obesity.",
+   "logic": "or",
+   "What You Can Do": "Diet, a healthy sleep schedule, and regular exercise are all key factors in avoiding obesity. Try to get at least 8 hours of sleep a night, eat at least 6 servings of fruits and vegetables everyday, avoid high-calorie foods, and exercise at least 30 minutes everyday."
+  }
+ },
+ "default_result": {
+  "result": "You're not at increased risk for obesity"
+ }
+}

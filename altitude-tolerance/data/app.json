@@ -1,0 +1,63 @@
+{
+ "regions": [
+  "12:48083303-48083303"
+ ],
+ "results": {
+  "result1": {
+   "analysis": {
+    "variants1": {
+     "features": {
+      "rs7963934": {
+       "genotypes": [
+        [
+         "C",
+         "C"
+        ],
+        [
+         "G",
+         "C"
+        ]
+       ],
+       "weights": []
+      }
+     },
+     "logic": "or",
+     "sub_result": ""
+    },
+    "genes1": {
+     "features": {}
+    }
+   },
+   "result": "You have a high chance of developing chronic mountain sickness and may fare worse long-term at high altitudes.",
+   "logic": "or"
+  },
+  "result2": {
+   "analysis": {
+    "variants1": {
+     "features": {
+      "rs7963934": {
+       "genotypes": [
+        [
+         "G",
+         "G"
+        ]
+       ],
+       "weights": []
+      }
+     },
+     "logic": "or",
+     "sub_result": ""
+    },
+    "genes1": {
+     "features": {}
+    }
+   },
+   "result": "You have a small chance of developing chronic mountain sickness and may fare better long-term at high altitudes.",
+   "logic": "or"
+  }
+ },
+ "default_result": {
+  "result": "This analysis could not determine your altitude tolerance.",
+  "What Now": "Perhaps when more research on the genetics of altitude tolerance has been done, we'll be able to improve this analysis and provide you with a clear answer."
+ }
+}

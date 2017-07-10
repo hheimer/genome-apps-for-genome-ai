@@ -1,0 +1,6 @@
+# RESULT.default=Your genetic information indicates you have a low risk for androgenic alopecia.						
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Action
+rs6152	variant	X:67545785-67545785	A|A	A person with this genotype is at a low risk for androgenic alopecia.	Hillmer, Axel M., et al. "Genetic variation in the human androgen receptor gene is the major determinant of common early-onset androgenetic alopecia." The American Journal of Human Genetics 77.1 (2005): 140-148.	
+rs6152	variant	X:67545785-67545785	A	A person with this genotype is at at a low risk for androgenic alopecia.	Ellis, Justine A., et al. "Baldness and the androgen receptor: the AR polyglycine repeat polymorphism does not confer susceptibility to androgenetic alopecia." Human genetics 121.3-4 (2007): 451-457.	
+rs6152	variant	X:67545785-67545785	A|G	A person with this genotype may be at an increased risk for experiencing androgenic alopecia.		Be proactive in self-monitoring your hair fullness and quality; meet with your doctor to discuss possible hair-loss prevention treatments. 
+rs6152	variant	X:67545785-67545785	G|G	A person with this genotype may be at high risk for experiencing androgenic alopecia.		Be proactive in self-monitoring your hair fullness and quality; meet with your doctor to discuss possible hair-loss prevention treatments. 

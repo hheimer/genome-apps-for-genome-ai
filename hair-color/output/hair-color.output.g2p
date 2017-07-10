@@ -1,0 +1,5 @@
+# RESULT.description=The result that was found based on the features searched in the VCF file.
+# REFERENCE.description=The sources that the analysis and results are based on.
+# biology.description=The biological process responsible for hair color.
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	biology
+				74.70% probability of black hair	Walsh S, Chaitanya L, Clarisse L, et al. Developmental validation of the HIrisPlex system: DNA-based eye and hair colour prediction for forensic and anthropological usage. Forensic Sci Int Genet. 2014;9:150-61.	Hair color is the result of two types of melanin, eumelanin and pheomelanin.

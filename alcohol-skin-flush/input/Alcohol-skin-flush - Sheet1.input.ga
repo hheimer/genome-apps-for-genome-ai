@@ -1,0 +1,6 @@
+# RESULT.default=Your genetic information indicates you will experience normal flushing of the skin following alcohol consumption.							
+# Action.default=Monitor your alcohol consumption.							
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Action	Resources
+rs671	variant	12:111803962-111803962 	A|A	A person with this genotype may experience increased flushing of the skin following alcohol consumption.	Yokoyama, Masako, et al. "Hangover susceptibility in relation to aldehyde dehydrogenase‐2 genotype, alcohol flushing, and mean corpuscular volume in japanese workers." Alcoholism: Clinical and Experimental Research 29.7 (2005): 1165-1171.	Monitor your alcohol consumption closely.	
+rs671	variant	12:111803962-111803962 	A|G	A person with this genotype may experience increased flushing of the skin following alcohol consumption.	Yoshida, Akira, I-Yih Huang, and Michiharu Ikawa. "Molecular abnormality of an inactive aldehyde dehydrogenase variant commonly found in Orientals." Proceedings of the National Academy of Sciences 81.1 (1984): 258-261.	Monitor your alcohol consumption closely.	
+rs671	variant	12:111803962-111803962 	G|G	A person with this genotype most likely will not experience increased flushing of the skin following alcohol consumption.		Monitor your alcohol consumption.	

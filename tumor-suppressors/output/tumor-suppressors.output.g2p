@@ -1,0 +1,4 @@
+# RESULT.description=The result that was found based on the features searched in the VCF file.							
+# Action.description=Suggested actions to take based on your result.							
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Action	Cause
+				Out of the tumor suppressors we checked, we did not find any problems in your tumor suppressors. You are at lower risk of having cancer and cancer-related diseases.	Forbes SA, Beare D, Boutselakis H, et al. COSMIC: somatic cancer genetics at high-resolution. Nucleic Acids Res. 2017;45(D1):D777-D783.	Rejoice!	
