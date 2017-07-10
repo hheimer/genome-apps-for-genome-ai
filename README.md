@@ -8,9 +8,7 @@ All Genome Apps here are available for Genome AI users :family:.
 If you have a Genome App that you want to contribute (all Genome AI users will be able to run your Genome App :dancers:), add your Genome App here in 3 steps :feet:: (TODO: Add video showing the entire process)
 1. Make sure your Genome App name is unique. There should not already be a Genome App with the same name here; if so, simply rename yours.
 2. Click "Upload new files" and drag-and-drop your Genome App here:
-
-
-3. Create a pull request (TODO: Add screenshot)
+3. Create a pull request
 
 ## Updating your Genome App
 
