@@ -1,6 +1,6 @@
 # Genome Apps for Genome AI
 
-This repository contains [Genome Apps](https://www.guardiome.com/apps-index/) :microscope: created by the open source Genome App community and used by [Genome AI](https://www.guardiome.com/ai-index/) :no_mouth:.
+This repository contains [Genome Apps](https://www.guardiome.com/apps-index/) :microscope: created by the open source Genome App community :earth_asia: and used by [Genome AI](https://www.guardiome.com/ai-index/) :no_mouth:.
 All Genome Apps here are available for Genome AI users :family:.
 
 ## Adding your Genome App here
